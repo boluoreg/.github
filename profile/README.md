@@ -3,7 +3,7 @@
 ## Q&A
 
 ### What does this organization do?
-This organization encompasses projects related to fully automated registration for pineapple platform accounts. (Deleting the repository for now because of the fucking pineapple platform)
+This organization encompasses projects related to fully automated registration for pineapple platform accounts.
 
 ### Why is the project called "Pineapple"?
 Because the project author([TianmuTNT](https://github.com/TianmuTNT))'s catchphrase is "pineapple".
