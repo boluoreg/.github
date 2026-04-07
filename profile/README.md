@@ -1,6 +1,5 @@
-# 🍍 你看个菠萝 🍍
-## Fuck you pineapple platform🤣🤣🤣
-## Q&A
+# 🍍 你所热爱的，就是你的菠萝。 🍍
+## FAQ
 
 ### What does this organization do?
 This organization encompasses projects related to fully automated registration for pineapple platform accounts.
